@@ -1,201 +1,201 @@
-,item_name,brand,condition,source,cost,selling_price,discount,final_price,profit,quantity,date,days_to_sell,customer_type,payment_method,category
-0,T-Shirt,Nike,New,Donation,8.92,23.41,4.83,18.58,9.66,1,2026-03-12 21:35:36.579343,20,Returning,Mobile Money,Topwear
-1,Sneakers,Zara,New,Donation,7.55,20.69,2.83,17.86,10.31,2,2026-02-08 21:35:36.579407,5,New,Cash,Footwear
-2,Hoodie,Zara,Good,Donation,13.02,32.61,0.85,31.76,18.74,4,2026-03-22 21:35:36.579438,20,Returning,Mobile Money,Topwear
-3,Jeans,Adidas,New,Market,12.61,21.54,3.2,18.34,5.73,2,2026-03-24 21:35:36.579461,2,New,Mobile Money,Bottomwear
-4,Sneakers,H&M,New,Market,10.76,21.52,1.24,20.28,9.52,5,2026-03-29 21:35:36.579484,5,New,Mobile Money,Footwear
-5,Hoodie,Nike,Worn,Donation,16.04,45.57,4.4,41.17,25.13,2,2026-02-14 21:35:36.579508,16,New,Cash,Topwear
-6,Jacket,Adidas,Worn,Supplier,20.37,39.73,3.4,36.33,15.96,2,2026-02-09 21:35:36.579531,11,Returning,Cash,Outerwear
-7,Jeans,Zara,Good,Market,11.36,28.1,3.6,24.5,13.14,1,2026-03-13 21:35:36.579554,26,New,Cash,Bottomwear
-8,Jacket,Puma,New,Market,9.97,16.26,2.85,13.41,3.44,3,2026-02-02 21:35:36.579578,19,New,Cash,Outerwear
-9,T-Shirt,Adidas,New,Supplier,12.61,27.46,1.13,26.33,13.72,3,2026-03-07 21:35:36.579601,16,Returning,Cash,Topwear
-10,Hoodie,Adidas,Good,Donation,23.11,55.23,4.18,51.05,27.94,3,2026-03-03 21:35:36.579624,7,Returning,Mobile Money,Topwear
-11,Jeans,Adidas,Good,Market,16.77,37.73,1.64,36.09,19.32,5,2026-02-01 21:35:36.579646,30,Returning,Mobile Money,Bottomwear
-12,Jacket,H&M,Good,Supplier,21.57,64.03,0.19,63.84,42.27,3,2026-02-04 21:35:36.579668,7,New,Cash,Outerwear
-13,Hoodie,Nike,Worn,Supplier,7.38,17.38,4.21,13.17,5.79,2,2026-02-11 21:35:36.579689,22,New,Mobile Money,Topwear
-14,Jeans,Zara,Good,Donation,19.37,29.85,0.11,29.74,10.37,4,2026-02-28 21:35:36.579711,18,Returning,Cash,Bottomwear
-15,Hoodie,Nike,Good,Donation,12.24,35.61,1.79,33.82,21.58,3,2026-02-13 21:35:36.579737,17,New,Cash,Topwear
-16,Hoodie,Nike,New,Supplier,26.89,48.19,0.6,47.59,20.7,5,2026-03-23 21:35:36.579758,20,New,Mobile Money,Topwear
-17,Jacket,Zara,Worn,Donation,25.31,64.9,3.76,61.14,35.83,2,2026-02-07 21:35:36.579782,22,Returning,Mobile Money,Outerwear
-18,Sneakers,Nike,Worn,Supplier,29.88,47.32,3.59,43.73,13.85,1,2026-03-20 21:35:36.579803,8,New,Mobile Money,Footwear
-19,Hoodie,Zara,Good,Supplier,14.35,35.05,2.7,32.35,18.0,5,2026-03-18 21:35:36.579825,2,Returning,Mobile Money,Topwear
-20,Hoodie,H&M,Good,Supplier,28.0,59.72,0.51,59.21,31.21,4,2026-02-08 21:35:36.579847,23,New,Cash,Topwear
-21,Jeans,Nike,Good,Market,26.99,42.16,0.11,42.05,15.06,4,2026-03-17 21:35:36.579870,17,New,Cash,Bottomwear
-22,Jeans,Puma,Good,Market,17.62,47.57,4.49,43.08,25.46,2,2026-03-10 21:35:36.579891,21,Returning,Cash,Bottomwear
-23,T-Shirt,Adidas,Worn,Market,23.35,58.74,3.1,55.64,32.29,5,2026-02-22 21:35:36.579911,12,New,Mobile Money,Topwear
-24,Sneakers,Adidas,Worn,Market,28.09,55.93,2.82,53.11,25.02,3,2026-03-12 21:35:36.579933,4,New,Mobile Money,Footwear
-25,Hoodie,H&M,New,Donation,12.17,26.11,3.34,22.77,10.6,5,2026-02-01 21:35:36.579956,11,Returning,Cash,Topwear
-26,Hoodie,Adidas,Good,Market,7.15,18.56,2.12,16.44,9.29,4,2026-03-03 21:35:36.579980,20,Returning,Cash,Topwear
-27,T-Shirt,Nike,Good,Market,20.36,45.6,4.81,40.79,20.43,1,2026-02-15 21:35:36.580003,30,Returning,Cash,Topwear
-28,Jacket,Puma,Good,Donation,24.42,44.35,3.07,41.28,16.86,3,2026-03-26 21:35:36.580023,21,Returning,Mobile Money,Outerwear
-29,Jeans,Puma,New,Market,21.78,34.3,0.37,33.93,12.15,2,2026-03-02 21:35:36.580044,29,Returning,Mobile Money,Bottomwear
-30,Jeans,Puma,Good,Market,5.52,11.97,4.68,7.29,1.77,3,2026-03-16 21:35:36.580061,22,Returning,Cash,Bottomwear
-31,Hoodie,Puma,Worn,Donation,14.95,42.45,1.07,41.38,26.43,2,2026-01-30 21:35:36.580080,3,New,Cash,Topwear
-32,Sneakers,H&M,New,Supplier,18.34,46.39,3.02,43.37,25.03,4,2026-03-08 21:35:36.580103,28,New,Cash,Footwear
-33,Hoodie,Zara,Worn,Market,28.58,82.93,4.74,78.19,49.61,5,2026-02-13 21:35:36.580125,5,New,Mobile Money,Topwear
-34,Jeans,Puma,New,Donation,20.31,45.42,4.45,40.97,20.66,4,2026-02-15 21:35:36.580147,20,New,Cash,Bottomwear
-35,Jeans,Puma,Worn,Donation,28.52,52.58,1.58,51.0,22.48,2,2026-02-20 21:35:36.580169,18,Returning,Cash,Bottomwear
-36,T-Shirt,Nike,Good,Supplier,28.79,73.69,1.37,72.32,43.53,2,2026-02-03 21:35:36.580190,9,Returning,Cash,Topwear
-37,Sneakers,Adidas,Good,Supplier,5.95,11.33,4.69,6.64,0.69,5,2026-03-02 21:35:36.580243,15,Returning,Cash,Footwear
-38,T-Shirt,Zara,Worn,Market,24.24,69.07,0.87,68.2,43.96,2,2026-02-16 21:35:36.580269,2,Returning,Mobile Money,Topwear
-39,Hoodie,Adidas,Good,Market,28.0,59.53,1.34,58.19,30.19,4,2026-03-26 21:35:36.580291,28,Returning,Mobile Money,Topwear
-40,Hoodie,Nike,Good,Supplier,19.39,51.86,3.1,48.76,29.37,3,2026-02-16 21:35:36.580313,17,New,Mobile Money,Topwear
-41,Jacket,Puma,New,Donation,10.17,25.33,4.19,21.14,10.97,4,2026-02-06 21:35:36.580336,16,Returning,Mobile Money,Outerwear
-42,Jacket,Adidas,Good,Market,17.4,26.22,0.95,25.27,7.87,2,2026-03-06 21:35:36.580360,13,Returning,Cash,Outerwear
-43,T-Shirt,H&M,Good,Market,20.29,47.33,4.82,42.51,22.22,3,2026-02-13 21:35:36.580386,25,New,Mobile Money,Topwear
-44,Jeans,H&M,Good,Market,11.42,24.52,2.35,22.17,10.75,3,2026-02-19 21:35:36.580408,17,Returning,Cash,Bottomwear
-45,Jacket,Puma,Worn,Donation,10.98,20.57,3.53,17.04,6.06,5,2026-03-09 21:35:36.580431,30,New,Mobile Money,Outerwear
-46,Hoodie,Puma,New,Donation,11.5,20.46,2.74,17.72,6.22,1,2026-02-15 21:35:36.580454,2,New,Cash,Topwear
-47,T-Shirt,H&M,Worn,Donation,16.22,31.72,0.17,31.55,15.33,4,2026-02-16 21:35:36.580477,13,New,Cash,Topwear
-48,Jacket,Zara,Worn,Market,6.14,15.72,4.01,11.71,5.57,3,2026-02-16 21:35:36.580499,27,New,Mobile Money,Outerwear
-49,Jacket,Nike,Worn,Supplier,29.25,60.6,0.48,60.12,30.87,1,2026-02-23 21:35:36.580522,11,New,Cash,Outerwear
-50,Sneakers,Adidas,Good,Supplier,26.47,43.29,4.04,39.25,12.78,2,2026-03-09 21:35:36.580545,21,New,Cash,Footwear
-51,T-Shirt,Puma,Worn,Supplier,24.73,73.41,4.92,68.49,43.76,2,2026-01-30 21:35:36.580568,12,Returning,Mobile Money,Topwear
-52,Jacket,Zara,New,Market,26.61,62.98,1.86,61.12,34.51,5,2026-02-28 21:35:36.580590,21,Returning,Mobile Money,Outerwear
-53,Sneakers,Nike,New,Donation,22.96,36.01,0.29,35.72,12.76,1,2026-02-20 21:35:36.580614,24,New,Mobile Money,Footwear
-54,Jeans,H&M,New,Supplier,10.97,17.75,3.29,14.46,3.49,1,2026-03-03 21:35:36.580639,28,New,Mobile Money,Bottomwear
-55,Jacket,Nike,Good,Donation,16.41,42.22,2.18,40.04,23.63,3,2026-03-04 21:35:36.580661,11,Returning,Cash,Outerwear
-56,T-Shirt,Zara,Good,Donation,25.46,71.79,2.26,69.53,44.07,1,2026-03-24 21:35:36.580684,20,New,Cash,Topwear
-57,Hoodie,Zara,New,Donation,20.46,48.54,0.21,48.33,27.87,4,2026-03-23 21:35:36.580705,10,Returning,Cash,Topwear
-58,Sneakers,H&M,New,Supplier,21.66,39.55,1.31,38.24,16.58,2,2026-02-28 21:35:36.580728,18,Returning,Mobile Money,Footwear
-59,Sneakers,Nike,New,Supplier,15.24,39.95,0.46,39.49,24.25,1,2026-02-01 21:35:36.580750,12,New,Mobile Money,Footwear
-60,Jacket,Nike,Worn,Market,7.38,20.7,4.29,16.41,9.03,1,2026-03-03 21:35:36.580771,22,Returning,Cash,Outerwear
-61,Jacket,Adidas,New,Supplier,7.22,17.99,1.76,16.23,9.01,1,2026-02-09 21:35:36.580794,27,New,Mobile Money,Outerwear
-62,Jeans,Puma,Worn,Supplier,10.19,20.94,2.16,18.78,8.59,3,2026-03-18 21:35:36.580817,15,Returning,Mobile Money,Bottomwear
-63,Jacket,H&M,New,Market,12.41,22.38,3.64,18.74,6.33,2,2026-03-24 21:35:36.580840,11,New,Cash,Outerwear
-64,T-Shirt,Nike,New,Market,20.51,49.21,1.99,47.22,26.71,4,2026-03-20 21:35:36.580863,27,New,Mobile Money,Topwear
-65,Jacket,H&M,New,Market,5.83,11.97,4.2,7.77,1.94,2,2026-02-11 21:35:36.580887,17,Returning,Mobile Money,Outerwear
-66,Jeans,Adidas,New,Donation,11.83,29.88,3.13,26.75,14.92,4,2026-03-18 21:35:36.580909,27,Returning,Mobile Money,Bottomwear
-67,Hoodie,Zara,Good,Market,21.94,37.59,3.54,34.05,12.11,3,2026-01-30 21:35:36.580931,10,New,Mobile Money,Topwear
-68,Sneakers,Nike,Good,Supplier,14.62,34.48,1.1,33.38,18.76,5,2026-01-30 21:35:36.580953,9,Returning,Mobile Money,Footwear
-69,Jacket,Nike,Worn,Market,13.15,31.59,1.55,30.04,16.89,3,2026-02-18 21:35:36.580976,15,New,Cash,Outerwear
-70,Sneakers,Puma,Worn,Market,11.15,22.56,2.98,19.58,8.43,2,2026-02-24 21:35:36.580997,25,New,Mobile Money,Footwear
-71,T-Shirt,Zara,New,Market,19.67,36.8,3.7,33.1,13.43,5,2026-03-29 21:35:36.581018,25,New,Mobile Money,Topwear
-72,Jeans,Nike,New,Market,7.9,12.64,3.03,9.61,1.71,1,2026-02-23 21:35:36.581041,12,New,Cash,Bottomwear
-73,Jeans,Nike,Worn,Market,24.62,39.99,0.0,39.99,15.37,5,2026-03-16 21:35:36.581064,25,New,Cash,Bottomwear
-74,Jacket,Adidas,Good,Market,12.06,21.54,4.86,16.68,4.62,2,2026-03-18 21:35:36.581086,29,Returning,Mobile Money,Outerwear
-75,Jeans,Puma,Good,Supplier,26.43,59.3,2.93,56.37,29.94,3,2026-03-04 21:35:36.581108,30,New,Mobile Money,Bottomwear
-76,Sneakers,Zara,Good,Market,7.78,11.79,2.43,9.36,1.58,4,2026-02-26 21:35:36.581129,12,New,Mobile Money,Footwear
-77,T-Shirt,Adidas,Worn,Supplier,12.94,23.99,2.95,21.04,8.1,3,2026-02-08 21:35:36.581152,6,Returning,Mobile Money,Topwear
-78,T-Shirt,Nike,Worn,Market,10.41,30.06,3.99,26.07,15.66,1,2026-02-25 21:35:36.581174,12,New,Cash,Topwear
-79,T-Shirt,Puma,New,Supplier,5.21,13.16,0.22,12.94,7.73,5,2026-02-07 21:35:36.581195,19,New,Mobile Money,Topwear
-80,Jeans,Nike,New,Supplier,26.32,45.66,3.06,42.6,16.28,2,2026-01-31 21:35:36.581217,5,Returning,Mobile Money,Bottomwear
-81,T-Shirt,Puma,Good,Market,28.82,53.64,1.88,51.76,22.94,2,2026-02-23 21:35:36.581237,8,New,Mobile Money,Topwear
-82,Jeans,Nike,Worn,Market,22.6,65.82,2.63,63.19,40.59,2,2026-02-20 21:35:36.581259,17,Returning,Mobile Money,Bottomwear
-83,Sneakers,Puma,New,Market,22.93,50.6,4.46,46.14,23.21,5,2026-02-28 21:35:36.581281,8,Returning,Cash,Footwear
-84,Jeans,Adidas,Worn,Supplier,19.75,46.81,1.95,44.86,25.11,2,2026-03-22 21:35:36.581303,12,New,Cash,Bottomwear
-85,T-Shirt,Adidas,New,Market,5.89,11.87,3.76,8.11,2.22,5,2026-03-24 21:35:36.581325,8,New,Cash,Topwear
-86,Jeans,Zara,New,Donation,14.13,23.43,0.38,23.05,8.92,2,2026-02-19 21:35:36.581346,4,New,Cash,Bottomwear
-87,T-Shirt,H&M,Good,Market,28.83,83.86,2.33,81.53,52.7,1,2026-03-09 21:35:36.581369,3,New,Cash,Topwear
-88,Jacket,Adidas,Good,Donation,8.33,12.9,2.75,10.15,1.82,4,2026-02-09 21:35:36.581390,7,Returning,Mobile Money,Outerwear
-89,Jacket,Zara,New,Market,18.54,41.91,4.64,37.27,18.73,5,2026-03-22 21:35:36.581410,24,New,Mobile Money,Outerwear
-90,Sneakers,Nike,New,Donation,13.92,23.47,0.55,22.92,9.0,2,2026-02-25 21:35:36.581430,25,New,Cash,Footwear
-91,Jeans,Nike,New,Market,28.0,57.61,1.75,55.86,27.86,5,2026-03-19 21:35:36.581452,3,New,Mobile Money,Bottomwear
-92,Hoodie,Zara,Good,Donation,22.46,65.34,0.86,64.48,42.02,5,2026-03-27 21:35:36.581473,18,Returning,Mobile Money,Topwear
-93,Sneakers,Zara,New,Supplier,15.07,38.03,2.39,35.64,20.57,5,2026-03-17 21:35:36.581494,15,Returning,Cash,Footwear
-94,Hoodie,Nike,Good,Market,9.91,19.66,0.98,18.68,8.77,1,2026-02-23 21:35:36.581515,6,New,Mobile Money,Topwear
-95,Jacket,H&M,New,Market,10.64,30.04,1.66,28.38,17.74,1,2026-02-07 21:35:36.581536,6,Returning,Cash,Outerwear
-96,Jeans,H&M,Worn,Supplier,28.54,82.51,3.18,79.33,50.79,4,2026-03-14 21:35:36.581557,10,Returning,Mobile Money,Bottomwear
-97,T-Shirt,H&M,Good,Market,10.54,23.35,1.67,21.68,11.14,2,2026-01-31 21:35:36.581579,27,New,Mobile Money,Topwear
-98,Sneakers,Zara,Worn,Donation,20.05,47.67,1.48,46.19,26.14,3,2026-03-26 21:35:36.581600,12,New,Cash,Footwear
-99,Jeans,Zara,Good,Donation,23.04,42.71,3.23,39.48,16.44,3,2026-02-05 21:35:36.581622,9,Returning,Cash,Bottomwear
-100,Jacket,Zara,Good,Market,20.72,48.65,3.7,44.95,24.23,3,2026-03-02 21:35:36.581642,22,Returning,Cash,Outerwear
-101,Hoodie,Zara,New,Supplier,9.42,16.46,0.19,16.27,6.85,3,2026-03-28 21:35:36.581663,13,Returning,Cash,Topwear
-102,Sneakers,Adidas,Good,Supplier,23.57,63.96,0.76,63.2,39.63,1,2026-02-22 21:35:36.581686,28,Returning,Mobile Money,Footwear
-103,Jacket,H&M,Worn,Market,21.72,60.51,2.7,57.81,36.09,2,2026-02-09 21:35:36.581708,24,New,Mobile Money,Outerwear
-104,Hoodie,Zara,Good,Market,17.41,39.23,0.68,38.55,21.14,4,2026-03-08 21:35:36.581729,23,Returning,Cash,Topwear
-105,Sneakers,Nike,Good,Donation,20.08,51.65,2.53,49.12,29.04,3,2026-03-14 21:35:36.581750,26,New,Cash,Footwear
-106,Jacket,Nike,New,Donation,21.22,49.67,2.31,47.36,26.14,1,2026-03-24 21:35:36.581772,17,New,Cash,Outerwear
-107,Jacket,Zara,Worn,Donation,24.99,56.13,3.52,52.61,27.62,1,2026-03-25 21:35:36.581813,12,Returning,Cash,Outerwear
-108,T-Shirt,Nike,Worn,Supplier,17.08,40.37,2.01,38.36,21.28,4,2026-02-21 21:35:36.581835,25,New,Cash,Topwear
-109,Hoodie,Adidas,Worn,Supplier,14.19,39.71,2.4,37.31,23.12,2,2026-03-24 21:35:36.581856,19,Returning,Mobile Money,Topwear
-110,T-Shirt,Adidas,Worn,Market,19.2,37.28,3.14,34.14,14.94,3,2026-03-11 21:35:36.581875,16,Returning,Cash,Topwear
-111,Hoodie,H&M,Worn,Donation,17.37,32.95,4.46,28.49,11.12,1,2026-03-30 21:35:36.581899,23,New,Cash,Topwear
-112,T-Shirt,Adidas,Worn,Supplier,27.46,61.83,4.15,57.68,30.22,2,2026-03-23 21:35:36.581921,21,Returning,Mobile Money,Topwear
-113,Jeans,Puma,Good,Donation,28.51,52.27,2.48,49.79,21.28,5,2026-03-31 21:35:36.581942,3,Returning,Cash,Bottomwear
-114,Sneakers,Puma,Good,Donation,20.11,31.18,4.98,26.2,6.09,5,2026-03-10 21:35:36.581962,12,Returning,Mobile Money,Footwear
-115,Hoodie,Nike,Worn,Supplier,5.4,14.84,1.66,13.18,7.78,2,2026-03-11 21:35:36.581982,17,New,Mobile Money,Topwear
-116,T-Shirt,Nike,Worn,Donation,16.23,46.91,1.54,45.37,29.14,3,2026-02-06 21:35:36.582002,18,Returning,Cash,Topwear
-117,Sneakers,H&M,Good,Market,14.71,38.75,3.23,35.52,20.81,4,2026-03-27 21:35:36.582023,12,New,Mobile Money,Footwear
-118,T-Shirt,Adidas,Good,Supplier,24.58,67.92,3.04,64.88,40.3,5,2026-02-19 21:35:36.582044,15,New,Cash,Topwear
-119,Jeans,H&M,Good,Supplier,10.61,24.84,4.48,20.36,9.75,3,2026-03-15 21:35:36.582064,18,New,Mobile Money,Bottomwear
-120,Hoodie,Zara,New,Supplier,12.63,30.7,1.69,29.01,16.38,2,2026-03-09 21:35:36.582084,20,New,Mobile Money,Topwear
-121,Jeans,Zara,Worn,Supplier,9.64,18.17,4.14,14.03,4.39,2,2026-02-27 21:35:36.582101,16,Returning,Mobile Money,Bottomwear
-122,Sneakers,Nike,Worn,Supplier,20.64,33.27,4.64,28.63,7.99,2,2026-03-22 21:35:36.582118,13,Returning,Cash,Footwear
-123,Hoodie,Adidas,New,Supplier,8.3,23.11,0.37,22.74,14.44,2,2026-02-08 21:35:36.582129,6,New,Cash,Topwear
-124,Hoodie,Nike,Worn,Donation,16.63,25.62,2.97,22.65,6.02,1,2026-03-19 21:35:36.582140,30,New,Cash,Topwear
-125,Hoodie,Zara,Worn,Donation,28.55,72.49,4.69,67.8,39.25,4,2026-03-09 21:35:36.582155,4,New,Cash,Topwear
-126,Sneakers,Zara,New,Market,6.8,16.7,4.35,12.35,5.55,5,2026-03-09 21:35:36.582166,19,Returning,Mobile Money,Footwear
-127,Jeans,Adidas,Worn,Market,17.48,42.64,0.87,41.77,24.29,4,2026-03-11 21:35:36.582176,18,Returning,Cash,Bottomwear
-128,Hoodie,Nike,Good,Supplier,25.54,71.84,1.37,70.47,44.93,1,2026-01-31 21:35:36.582186,15,New,Cash,Topwear
-129,Hoodie,Adidas,Worn,Supplier,5.6,9.4,2.22,7.18,1.58,2,2026-02-15 21:35:36.582199,6,New,Cash,Topwear
-130,T-Shirt,Adidas,Worn,Supplier,9.49,21.24,4.38,16.86,7.37,3,2026-02-28 21:35:36.582210,16,New,Cash,Topwear
-131,Jeans,Zara,New,Market,20.86,33.79,3.56,30.23,9.37,3,2026-03-20 21:35:36.582232,13,Returning,Mobile Money,Bottomwear
-132,Sneakers,Zara,New,Supplier,25.35,66.8,1.88,64.92,39.57,3,2026-03-09 21:35:36.582247,3,Returning,Mobile Money,Footwear
-133,Sneakers,Nike,Good,Donation,18.24,47.95,0.17,47.78,29.54,5,2026-02-23 21:35:36.582259,16,Returning,Mobile Money,Footwear
-134,Jeans,Puma,Good,Market,28.14,50.18,4.39,45.79,17.65,3,2026-03-07 21:35:36.582270,17,Returning,Mobile Money,Bottomwear
-135,Jeans,Puma,Good,Market,21.86,47.38,4.02,43.36,21.5,5,2026-02-10 21:35:36.582281,7,Returning,Cash,Bottomwear
-136,Sneakers,Adidas,Good,Donation,22.73,43.78,4.73,39.05,16.32,5,2026-02-07 21:35:36.582292,16,New,Mobile Money,Footwear
-137,Jeans,Adidas,Good,Supplier,12.42,18.97,4.74,14.23,1.81,1,2026-02-05 21:35:36.582302,3,Returning,Cash,Bottomwear
-138,Jeans,H&M,Worn,Market,20.92,50.7,4.93,45.77,24.85,1,2026-03-24 21:35:36.582312,5,New,Cash,Bottomwear
-139,T-Shirt,Zara,New,Market,16.29,44.1,4.42,39.68,23.39,5,2026-02-02 21:35:36.582322,23,Returning,Cash,Topwear
-140,T-Shirt,Puma,Worn,Market,21.07,40.78,0.01,40.77,19.7,4,2026-03-16 21:35:36.582332,10,Returning,Cash,Topwear
-141,Jacket,Nike,New,Market,25.14,45.86,0.63,45.23,20.09,5,2026-03-27 21:35:36.582343,5,New,Mobile Money,Outerwear
-142,T-Shirt,Puma,Good,Donation,18.12,42.8,0.42,42.38,24.26,1,2026-02-05 21:35:36.582354,21,Returning,Mobile Money,Topwear
-143,Jacket,Zara,Worn,Donation,14.85,43.25,1.58,41.67,26.82,3,2026-03-22 21:35:36.582365,7,Returning,Mobile Money,Outerwear
-144,Jeans,Nike,Worn,Donation,11.29,22.62,4.48,18.14,6.85,5,2026-03-23 21:35:36.582376,17,New,Cash,Bottomwear
-145,T-Shirt,Puma,Good,Donation,27.84,74.32,0.19,74.13,46.29,3,2026-02-08 21:35:36.582387,26,Returning,Mobile Money,Topwear
-146,T-Shirt,H&M,New,Donation,15.43,37.63,0.18,37.45,22.02,3,2026-03-08 21:35:36.582398,12,New,Mobile Money,Topwear
-147,Hoodie,H&M,Worn,Donation,24.71,56.63,2.63,54.0,29.29,1,2026-02-28 21:35:36.582408,18,Returning,Mobile Money,Topwear
-148,Sneakers,Zara,Worn,Supplier,7.9,16.64,4.77,11.87,3.97,4,2026-03-28 21:35:36.582419,30,Returning,Mobile Money,Footwear
-149,Hoodie,H&M,Good,Donation,16.12,45.27,4.57,40.7,24.58,1,2026-03-01 21:35:36.582432,12,New,Cash,Topwear
-150,Sneakers,Adidas,Good,Donation,27.96,61.77,3.01,58.76,30.8,3,2026-02-27 21:35:36.582442,27,Returning,Mobile Money,Footwear
-151,Hoodie,Adidas,Good,Market,28.78,43.85,0.38,43.47,14.69,4,2026-03-23 21:35:36.582452,22,New,Cash,Topwear
-152,T-Shirt,Zara,Good,Donation,9.36,18.29,3.66,14.63,5.27,1,2026-02-14 21:35:36.582463,6,New,Cash,Topwear
-153,Jacket,Puma,Good,Market,22.08,33.34,4.3,29.04,6.96,3,2026-02-23 21:35:36.582473,15,New,Cash,Outerwear
-154,Hoodie,Nike,New,Market,14.06,27.62,4.77,22.85,8.79,4,2026-03-06 21:35:36.582483,5,New,Cash,Topwear
-155,Sneakers,Puma,New,Donation,19.43,53.4,0.81,52.59,33.16,4,2026-02-07 21:35:36.582494,11,Returning,Mobile Money,Footwear
-156,Sneakers,Nike,New,Market,24.05,36.3,3.4,32.9,8.85,2,2026-02-22 21:35:36.582504,4,Returning,Cash,Footwear
-157,Hoodie,Adidas,Good,Supplier,15.39,29.46,2.99,26.47,11.08,2,2026-02-27 21:35:36.582514,8,New,Mobile Money,Topwear
-158,Hoodie,Puma,Good,Donation,20.36,36.73,4.57,32.16,11.8,4,2026-02-09 21:35:36.582527,23,New,Mobile Money,Topwear
-159,Jacket,Nike,Good,Donation,28.0,66.13,0.57,65.56,37.56,4,2026-02-23 21:35:36.582538,15,Returning,Mobile Money,Outerwear
-160,T-Shirt,Nike,Worn,Market,5.66,13.92,0.66,13.26,7.6,3,2026-02-20 21:35:36.582549,26,New,Cash,Topwear
-161,Jacket,Adidas,New,Supplier,16.26,42.04,0.89,41.15,24.89,3,2026-03-22 21:35:36.582561,7,New,Mobile Money,Outerwear
-162,Sneakers,H&M,Good,Supplier,21.69,60.6,1.69,58.91,37.22,2,2026-02-22 21:35:36.582572,2,Returning,Mobile Money,Footwear
-163,Hoodie,H&M,Worn,Supplier,26.26,66.62,2.41,64.21,37.95,1,2026-03-13 21:35:36.582582,15,New,Cash,Topwear
-164,Sneakers,Puma,New,Market,16.14,28.47,2.93,25.54,9.4,1,2026-02-23 21:35:36.582593,24,Returning,Cash,Footwear
-165,Jeans,Puma,Worn,Donation,12.11,24.54,3.51,21.03,8.92,3,2026-03-18 21:35:36.582603,4,Returning,Cash,Bottomwear
-166,Jacket,Puma,New,Donation,15.61,39.85,1.6,38.25,22.64,3,2026-03-01 21:35:36.582613,24,Returning,Mobile Money,Outerwear
-167,T-Shirt,Nike,Good,Market,25.04,49.19,2.24,46.95,21.91,4,2026-01-31 21:35:36.582623,9,Returning,Mobile Money,Topwear
-168,Hoodie,Adidas,New,Donation,14.57,34.44,3.69,30.75,16.18,2,2026-02-20 21:35:36.582636,2,New,Mobile Money,Topwear
-169,Sneakers,Adidas,Good,Supplier,12.97,38.45,1.22,37.23,24.26,2,2026-02-03 21:35:36.582646,6,Returning,Cash,Footwear
-170,Sneakers,Puma,Worn,Market,21.64,60.4,0.49,59.91,38.27,3,2026-02-12 21:35:36.582657,21,New,Mobile Money,Footwear
-171,Sneakers,Zara,New,Market,22.61,57.08,3.77,53.31,30.7,1,2026-02-06 21:35:36.582667,29,Returning,Mobile Money,Footwear
-172,T-Shirt,Puma,Worn,Donation,10.98,32.83,0.12,32.71,21.73,1,2026-03-19 21:35:36.582677,24,New,Mobile Money,Topwear
-173,Jacket,Zara,Good,Donation,23.27,42.73,4.79,37.94,14.67,3,2026-03-31 21:35:36.582688,30,New,Mobile Money,Outerwear
-174,Jeans,Adidas,Worn,Market,13.14,20.25,2.54,17.71,4.57,4,2026-03-28 21:35:36.582699,16,Returning,Mobile Money,Bottomwear
-175,T-Shirt,Adidas,New,Supplier,14.79,29.94,1.16,28.78,13.99,2,2026-02-17 21:35:36.582709,6,Returning,Mobile Money,Topwear
-176,Jeans,Zara,New,Supplier,27.06,55.54,2.12,53.42,26.36,1,2026-01-30 21:35:36.582719,22,Returning,Mobile Money,Bottomwear
-177,Hoodie,H&M,Worn,Market,23.67,48.22,3.49,44.73,21.06,3,2026-03-06 21:35:36.582729,4,Returning,Cash,Topwear
-178,Hoodie,Adidas,Good,Market,29.1,43.76,1.09,42.67,13.57,3,2026-03-15 21:35:36.582739,17,Returning,Cash,Topwear
-179,Hoodie,Nike,Good,Donation,29.1,70.73,3.51,67.22,38.12,4,2026-03-09 21:35:36.582750,7,New,Mobile Money,Topwear
-180,Hoodie,Adidas,Worn,Supplier,15.68,43.61,1.34,42.27,26.59,2,2026-02-11 21:35:36.582767,26,New,Mobile Money,Topwear
-181,T-Shirt,Puma,Good,Market,18.09,34.8,2.59,32.21,14.12,1,2026-02-23 21:35:36.582783,7,Returning,Cash,Topwear
-182,T-Shirt,Zara,New,Supplier,28.52,57.51,4.02,53.49,24.97,3,2026-03-11 21:35:36.582801,4,New,Mobile Money,Topwear
-183,Jeans,Puma,New,Supplier,25.38,63.64,1.5,62.14,36.76,5,2026-03-19 21:35:36.582821,22,Returning,Cash,Bottomwear
-184,Hoodie,Puma,Good,Market,8.26,23.41,3.64,19.77,11.51,4,2026-03-09 21:35:36.582836,29,Returning,Mobile Money,Topwear
-185,Hoodie,Zara,Good,Supplier,20.58,56.75,3.65,53.1,32.52,5,2026-03-22 21:35:36.582853,5,New,Cash,Topwear
-186,Jeans,Nike,New,Supplier,6.07,13.37,2.57,10.8,4.73,1,2026-03-21 21:35:36.582868,1,New,Mobile Money,Bottomwear
-187,Jacket,Puma,New,Market,21.18,47.62,2.71,44.91,23.73,3,2026-02-23 21:35:36.582883,20,New,Mobile Money,Outerwear
-188,Hoodie,Nike,New,Market,5.28,10.63,3.81,6.82,1.54,1,2026-03-21 21:35:36.582900,22,Returning,Mobile Money,Topwear
-189,Jacket,H&M,Good,Supplier,5.02,9.45,2.23,7.22,2.2,2,2026-02-19 21:35:36.582917,3,Returning,Mobile Money,Outerwear
-190,Sneakers,H&M,Good,Market,28.49,42.94,4.69,38.25,9.76,5,2026-02-16 21:35:36.582935,1,New,Mobile Money,Footwear
-191,Hoodie,Zara,Good,Donation,25.44,47.49,3.7,43.79,18.35,5,2026-02-04 21:35:36.582950,24,Returning,Cash,Topwear
-192,Jacket,Nike,Good,Donation,28.1,63.64,0.64,63.0,34.9,5,2026-03-21 21:35:36.582960,11,Returning,Mobile Money,Outerwear
-193,Jacket,Puma,Good,Supplier,7.64,17.59,2.87,14.72,7.08,2,2026-02-26 21:35:36.582970,13,Returning,Cash,Outerwear
-194,Jacket,H&M,New,Supplier,13.18,23.96,4.68,19.28,6.1,2,2026-03-03 21:35:36.582981,9,Returning,Cash,Outerwear
-195,Jeans,Zara,Worn,Market,26.62,71.69,4.88,66.81,40.19,3,2026-03-16 21:35:36.582992,24,Returning,Cash,Bottomwear
-196,Hoodie,Zara,Worn,Supplier,7.03,17.99,3.06,14.93,7.9,3,2026-02-27 21:35:36.583003,3,New,Mobile Money,Topwear
-197,Jacket,Nike,Good,Supplier,13.83,29.42,2.33,27.09,13.26,4,2026-03-29 21:35:36.583016,24,Returning,Mobile Money,Outerwear
-198,Sneakers,Zara,Worn,Supplier,25.52,48.69,1.86,46.83,21.31,1,2026-02-01 21:35:36.583027,2,New,Mobile Money,Footwear
-199,Sneakers,H&M,Good,Market,16.54,46.86,0.01,46.85,30.31,5,2026-02-12 21:35:36.583038,8,Returning,Mobile Money,Footwear
+,item_name,brand,item_condition,source,cost,selling_price,discount,final_price,profit,quantity,date,days_to_sell,customer_type,payment_method,category
+0,Sneakers,Nike,Good,Supplier,26.87,40.47,2.88,37.59,10.72,4,2026-03-09 13:52:38.130835,17,Returning,Cash,Footwear
+1,T-Shirt,Nike,Worn,Donation,6.06,11.51,1.5,10.01,3.95,4,2026-04-02 13:52:38.130893,11,Returning,Mobile Money,Topwear
+2,Jeans,H&M,New,Supplier,16.01,37.68,1.16,36.52,20.51,3,2026-02-21 13:52:38.130920,3,Returning,Mobile Money,Bottomwear
+3,Hoodie,Zara,Worn,Supplier,5.1,8.09,0.55,7.54,2.44,4,2026-03-10 13:52:38.130945,26,Returning,Mobile Money,Topwear
+4,Hoodie,H&M,Good,Market,10.21,16.25,0.68,15.57,5.36,1,2026-03-13 13:52:38.131000,11,Returning,Mobile Money,Topwear
+5,Jacket,Adidas,Good,Supplier,17.36,46.87,3.63,43.24,25.88,1,2026-03-22 13:52:38.131025,13,Returning,Cash,Outerwear
+6,T-Shirt,H&M,Good,Supplier,19.75,57.68,4.99,52.69,32.94,3,2026-02-21 13:52:38.131044,20,New,Mobile Money,Topwear
+7,Jacket,Puma,Worn,Supplier,17.76,44.78,0.29,44.49,26.73,2,2026-03-26 13:52:38.131064,25,New,Cash,Outerwear
+8,Hoodie,Zara,Worn,Donation,15.11,23.82,2.97,20.85,5.74,1,2026-03-15 13:52:38.131085,4,New,Mobile Money,Topwear
+9,Sneakers,Zara,New,Market,10.16,15.59,2.14,13.45,3.29,5,2026-04-05 13:52:38.131106,13,New,Mobile Money,Footwear
+10,T-Shirt,Nike,New,Supplier,17.21,28.49,3.88,24.61,7.4,5,2026-02-14 13:52:38.131140,25,New,Cash,Topwear
+11,Hoodie,Adidas,Worn,Market,12.08,19.23,3.49,15.74,3.66,4,2026-03-24 13:52:38.131162,2,New,Mobile Money,Topwear
+12,Jacket,Nike,Worn,Market,22.35,56.85,2.57,54.28,31.93,1,2026-03-20 13:52:38.131185,24,New,Mobile Money,Outerwear
+13,Jacket,Puma,Good,Supplier,14.28,21.46,3.24,18.22,3.94,3,2026-04-06 13:52:38.131209,4,Returning,Cash,Outerwear
+14,Hoodie,Adidas,Good,Market,26.84,63.26,4.05,59.21,32.37,3,2026-03-31 13:52:38.131231,30,New,Cash,Topwear
+15,Sneakers,Adidas,Good,Supplier,9.43,25.74,4.43,21.31,11.88,4,2026-03-15 13:52:38.131255,2,New,Cash,Footwear
+16,Hoodie,Zara,Good,Donation,28.81,62.37,3.47,58.9,30.09,3,2026-02-23 13:52:38.131277,19,Returning,Mobile Money,Topwear
+17,T-Shirt,Nike,Worn,Donation,20.41,33.55,3.23,30.32,9.91,3,2026-03-18 13:52:38.131302,1,Returning,Cash,Topwear
+18,Sneakers,Nike,New,Donation,13.85,22.18,0.57,21.61,7.76,4,2026-03-16 13:52:38.131327,25,Returning,Mobile Money,Footwear
+19,T-Shirt,H&M,Worn,Supplier,24.93,65.68,1.17,64.51,39.58,4,2026-03-02 13:52:38.131349,28,Returning,Mobile Money,Topwear
+20,T-Shirt,Zara,Worn,Market,19.83,36.1,1.28,34.82,14.99,4,2026-03-13 13:52:38.131372,26,New,Cash,Topwear
+21,Hoodie,Nike,Worn,Market,13.77,34.3,0.49,33.81,20.04,3,2026-02-06 13:52:38.131393,11,Returning,Cash,Topwear
+22,Jacket,H&M,New,Supplier,27.47,49.94,3.95,45.99,18.52,2,2026-02-17 13:52:38.131417,21,Returning,Mobile Money,Outerwear
+23,Jacket,H&M,Good,Supplier,20.61,57.55,3.09,54.46,33.85,4,2026-03-22 13:52:38.131440,2,New,Mobile Money,Outerwear
+24,Jeans,Nike,New,Market,27.94,76.54,1.84,74.7,46.76,3,2026-02-23 13:52:38.131462,9,New,Cash,Bottomwear
+25,Jacket,Adidas,Good,Supplier,9.7,27.39,1.36,26.03,16.33,2,2026-03-27 13:52:38.131487,7,Returning,Mobile Money,Outerwear
+26,T-Shirt,Adidas,Good,Supplier,20.43,61.03,2.25,58.78,38.35,3,2026-02-20 13:52:38.131511,3,New,Cash,Topwear
+27,Sneakers,Puma,Good,Supplier,21.44,53.52,0.3,53.22,31.78,1,2026-03-11 13:52:38.131537,14,New,Cash,Footwear
+28,Sneakers,Nike,Good,Market,19.37,55.08,4.36,50.72,31.35,1,2026-03-30 13:52:38.131561,5,New,Mobile Money,Footwear
+29,Jacket,Nike,Worn,Donation,5.25,12.82,3.5,9.32,4.07,3,2026-02-22 13:52:38.131583,24,Returning,Cash,Outerwear
+30,Jacket,Zara,New,Market,6.69,14.32,1.25,13.07,6.38,5,2026-03-18 13:52:38.131608,30,Returning,Mobile Money,Outerwear
+31,Sneakers,Adidas,Good,Donation,16.15,45.63,2.59,43.04,26.89,3,2026-02-08 13:52:38.131630,29,Returning,Cash,Footwear
+32,Jacket,Puma,Worn,Market,22.91,44.13,4.78,39.35,16.44,3,2026-02-13 13:52:38.131655,5,New,Mobile Money,Outerwear
+33,Hoodie,Nike,New,Donation,22.42,42.8,3.44,39.36,16.94,4,2026-03-23 13:52:38.131678,10,Returning,Mobile Money,Topwear
+34,Sneakers,Nike,New,Donation,21.3,57.73,1.51,56.22,34.92,4,2026-02-08 13:52:38.131701,1,New,Mobile Money,Footwear
+35,Jeans,Puma,Worn,Donation,12.98,31.54,2.27,29.27,16.29,1,2026-02-17 13:52:38.131724,3,New,Mobile Money,Bottomwear
+36,Jeans,Adidas,Good,Supplier,23.79,47.09,2.25,44.84,21.05,2,2026-04-04 13:52:38.131747,17,Returning,Mobile Money,Bottomwear
+37,Sneakers,Puma,New,Donation,20.66,61.39,4.0,57.39,36.73,3,2026-02-26 13:52:38.131769,27,New,Cash,Footwear
+38,Sneakers,Adidas,New,Supplier,8.6,19.94,3.84,16.1,7.5,1,2026-03-07 13:52:38.131791,21,New,Cash,Footwear
+39,Sneakers,Nike,Worn,Market,9.22,26.83,1.87,24.96,15.74,2,2026-02-16 13:52:38.131812,7,New,Cash,Footwear
+40,Hoodie,Zara,Worn,Donation,29.65,50.94,4.27,46.67,17.02,5,2026-03-05 13:52:38.131833,22,Returning,Mobile Money,Topwear
+41,Jacket,Zara,New,Donation,14.42,28.41,0.15,28.26,13.84,3,2026-03-13 13:52:38.131852,14,New,Cash,Outerwear
+42,Jacket,Adidas,Worn,Supplier,11.08,31.16,0.37,30.79,19.71,3,2026-03-10 13:52:38.131873,27,New,Cash,Outerwear
+43,Jacket,Adidas,New,Market,20.82,53.96,2.01,51.95,31.13,5,2026-03-24 13:52:38.131894,30,Returning,Cash,Outerwear
+44,Jeans,Zara,Good,Donation,16.28,33.21,2.75,30.46,14.18,3,2026-02-11 13:52:38.131917,29,Returning,Mobile Money,Bottomwear
+45,Jeans,Puma,New,Donation,11.25,26.35,2.08,24.27,13.02,4,2026-03-12 13:52:38.131939,19,Returning,Mobile Money,Bottomwear
+46,Jeans,Nike,New,Supplier,21.26,50.05,0.17,49.88,28.62,3,2026-03-01 13:52:38.131968,17,New,Cash,Bottomwear
+47,Sneakers,Nike,New,Donation,7.38,20.53,2.5,18.03,10.65,5,2026-03-31 13:52:38.131991,19,Returning,Cash,Footwear
+48,Sneakers,H&M,New,Supplier,22.44,62.82,4.17,58.65,36.21,2,2026-03-25 13:52:38.132012,15,New,Cash,Footwear
+49,Hoodie,Puma,Good,Supplier,8.09,23.81,0.23,23.58,15.49,3,2026-02-06 13:52:38.132033,17,New,Cash,Topwear
+50,Sneakers,Puma,New,Donation,24.19,63.21,0.57,62.64,38.45,1,2026-02-19 13:52:38.132055,22,Returning,Mobile Money,Footwear
+51,Sneakers,Adidas,Worn,Supplier,14.29,26.51,4.36,22.15,7.86,1,2026-03-10 13:52:38.132079,15,New,Cash,Footwear
+52,Hoodie,H&M,New,Supplier,20.13,32.64,4.41,28.23,8.1,2,2026-02-19 13:52:38.132102,3,New,Mobile Money,Topwear
+53,Jeans,Zara,New,Donation,19.62,32.19,2.96,29.23,9.61,2,2026-03-13 13:52:38.132128,5,New,Mobile Money,Bottomwear
+54,Jacket,Adidas,New,Donation,10.77,22.34,0.75,21.59,10.82,2,2026-02-13 13:52:38.132150,23,Returning,Mobile Money,Outerwear
+55,Sneakers,Puma,New,Supplier,19.05,53.63,0.23,53.4,34.35,3,2026-02-08 13:52:38.132169,13,Returning,Cash,Footwear
+56,Jeans,Adidas,Worn,Donation,11.93,18.49,1.06,17.43,5.5,2,2026-04-03 13:52:38.132189,2,Returning,Mobile Money,Bottomwear
+57,Sneakers,H&M,New,Market,25.81,43.36,4.81,38.55,12.74,2,2026-03-01 13:52:38.132212,2,Returning,Mobile Money,Footwear
+58,Jacket,Adidas,New,Donation,9.2,14.14,1.67,12.47,3.27,1,2026-02-27 13:52:38.132234,1,New,Cash,Outerwear
+59,T-Shirt,Adidas,Worn,Supplier,14.66,24.55,4.81,19.74,5.08,4,2026-03-09 13:52:38.132255,27,New,Cash,Topwear
+60,Hoodie,Adidas,Good,Donation,28.88,62.17,2.95,59.22,30.34,5,2026-02-05 13:52:38.132276,25,New,Cash,Topwear
+61,Jeans,Zara,New,Donation,5.87,11.32,2.77,8.55,2.68,2,2026-03-06 13:52:38.132297,14,New,Cash,Bottomwear
+62,Jacket,Nike,New,Supplier,12.22,32.55,3.95,28.6,16.38,3,2026-03-22 13:52:38.132318,22,Returning,Mobile Money,Outerwear
+63,Jacket,Nike,New,Supplier,28.72,56.35,1.64,54.71,25.99,3,2026-02-08 13:52:38.132342,16,New,Cash,Outerwear
+64,Hoodie,Adidas,Worn,Market,19.66,42.97,0.46,42.51,22.85,3,2026-02-14 13:52:38.132362,11,Returning,Mobile Money,Topwear
+65,Hoodie,Adidas,Good,Donation,12.87,34.02,1.5,32.52,19.65,5,2026-03-08 13:52:38.132385,29,Returning,Cash,Topwear
+66,Jeans,Zara,Worn,Donation,20.88,47.35,3.51,43.84,22.96,3,2026-02-21 13:52:38.132406,8,Returning,Cash,Bottomwear
+67,Jeans,Puma,Worn,Market,26.24,44.5,2.92,41.58,15.34,2,2026-02-25 13:52:38.132427,10,Returning,Cash,Bottomwear
+68,Jacket,Zara,Worn,Donation,29.37,62.35,4.91,57.44,28.07,3,2026-02-25 13:52:38.132449,8,New,Mobile Money,Outerwear
+69,Jacket,Adidas,Good,Market,14.55,25.53,0.29,25.24,10.69,4,2026-03-23 13:52:38.132470,6,Returning,Cash,Outerwear
+70,Jacket,Puma,New,Donation,10.67,25.68,3.59,22.09,11.42,5,2026-03-13 13:52:38.132490,19,New,Cash,Outerwear
+71,Jeans,H&M,Good,Market,16.54,47.67,4.34,43.33,26.79,5,2026-03-14 13:52:38.132511,18,New,Cash,Bottomwear
+72,Jacket,Adidas,Good,Market,7.49,18.56,0.71,17.85,10.36,2,2026-03-13 13:52:38.132532,19,New,Mobile Money,Outerwear
+73,Jeans,Puma,Good,Supplier,6.67,17.85,3.48,14.37,7.7,3,2026-03-19 13:52:38.132552,8,Returning,Cash,Bottomwear
+74,T-Shirt,Zara,Worn,Supplier,11.5,25.74,0.35,25.39,13.89,1,2026-02-05 13:52:38.132574,30,Returning,Cash,Topwear
+75,Jeans,H&M,Worn,Supplier,17.23,47.59,2.74,44.85,27.62,5,2026-03-04 13:52:38.132595,28,New,Cash,Bottomwear
+76,T-Shirt,Zara,New,Donation,13.92,34.47,1.0,33.47,19.55,1,2026-03-10 13:52:38.132616,10,Returning,Mobile Money,Topwear
+77,Jeans,Zara,New,Market,10.49,16.43,3.78,12.65,2.16,3,2026-02-09 13:52:38.132638,23,Returning,Mobile Money,Bottomwear
+78,Hoodie,H&M,New,Supplier,26.39,62.25,2.59,59.66,33.27,5,2026-02-20 13:52:38.132660,5,Returning,Cash,Topwear
+79,Jeans,Adidas,New,Supplier,24.54,72.69,3.23,69.46,44.92,4,2026-03-31 13:52:38.132681,24,New,Cash,Bottomwear
+80,Sneakers,Zara,New,Market,26.11,60.83,2.4,58.43,32.32,3,2026-03-04 13:52:38.132703,28,New,Cash,Footwear
+81,Jeans,Zara,Good,Donation,28.31,84.9,0.87,84.03,55.72,1,2026-03-27 13:52:38.132733,1,New,Cash,Bottomwear
+82,Jeans,Puma,New,Donation,26.48,62.51,2.69,59.82,33.34,5,2026-04-04 13:52:38.132758,1,Returning,Mobile Money,Bottomwear
+83,T-Shirt,Puma,Good,Market,12.31,27.72,3.72,24.0,11.69,3,2026-02-06 13:52:38.132778,2,New,Cash,Topwear
+84,Sneakers,H&M,New,Supplier,10.11,18.75,1.81,16.94,6.83,2,2026-02-08 13:52:38.132799,27,Returning,Mobile Money,Footwear
+85,Jeans,Puma,New,Supplier,14.39,31.14,1.86,29.28,14.89,4,2026-03-28 13:52:38.132821,8,New,Cash,Bottomwear
+86,Sneakers,Zara,Worn,Supplier,22.8,48.0,2.56,45.44,22.64,4,2026-02-11 13:52:38.133020,11,Returning,Mobile Money,Footwear
+87,Hoodie,H&M,New,Supplier,10.79,31.26,3.99,27.27,16.48,1,2026-03-08 13:52:38.133064,2,Returning,Mobile Money,Topwear
+88,Jacket,Nike,Good,Market,21.48,55.7,2.65,53.05,31.57,4,2026-02-17 13:52:38.133089,20,Returning,Mobile Money,Outerwear
+89,Sneakers,Adidas,Worn,Market,23.28,56.3,0.09,56.21,32.93,3,2026-03-14 13:52:38.133110,25,New,Cash,Footwear
+90,Hoodie,Zara,New,Market,15.43,38.29,0.18,38.11,22.68,3,2026-03-30 13:52:38.133133,19,New,Cash,Topwear
+91,T-Shirt,Puma,Good,Supplier,23.68,40.81,3.44,37.37,13.69,3,2026-03-31 13:52:38.133156,12,Returning,Cash,Topwear
+92,Jeans,Nike,Worn,Donation,16.49,45.14,0.14,45.0,28.51,4,2026-02-19 13:52:38.133178,14,Returning,Cash,Bottomwear
+93,Jeans,Zara,Good,Market,26.69,79.47,0.23,79.24,52.55,2,2026-03-27 13:52:38.133203,28,New,Cash,Bottomwear
+94,Jeans,H&M,New,Market,6.33,9.88,2.18,7.7,1.37,3,2026-03-07 13:52:38.133226,5,Returning,Cash,Bottomwear
+95,Sneakers,Puma,New,Market,29.4,76.97,3.12,73.85,44.45,3,2026-02-21 13:52:38.133249,21,Returning,Mobile Money,Footwear
+96,Sneakers,H&M,New,Market,11.86,35.32,4.34,30.98,19.12,5,2026-02-18 13:52:38.133274,9,Returning,Mobile Money,Footwear
+97,Hoodie,H&M,Good,Market,9.67,19.12,1.62,17.5,7.83,4,2026-02-17 13:52:38.133296,28,New,Mobile Money,Topwear
+98,T-Shirt,Adidas,New,Supplier,15.0,39.62,4.78,34.84,19.84,4,2026-03-27 13:52:38.133317,13,Returning,Mobile Money,Topwear
+99,Hoodie,H&M,Worn,Donation,13.14,28.52,1.05,27.47,14.33,1,2026-02-08 13:52:38.133337,12,New,Mobile Money,Topwear
+100,T-Shirt,Puma,Good,Donation,7.84,16.45,4.85,11.6,3.76,4,2026-03-21 13:52:38.133359,25,New,Cash,Topwear
+101,T-Shirt,Nike,Good,Donation,9.78,23.85,0.24,23.61,13.83,4,2026-04-01 13:52:38.133383,11,Returning,Mobile Money,Topwear
+102,Jacket,Zara,New,Supplier,28.57,66.82,2.68,64.14,35.57,3,2026-03-02 13:52:38.133404,30,New,Cash,Outerwear
+103,Jacket,Adidas,Worn,Market,15.44,36.72,1.95,34.77,19.33,1,2026-04-04 13:52:38.133424,30,Returning,Mobile Money,Outerwear
+104,Hoodie,Adidas,Worn,Supplier,27.36,81.79,2.97,78.82,51.46,1,2026-02-23 13:52:38.133442,27,New,Mobile Money,Topwear
+105,T-Shirt,Nike,New,Donation,10.56,27.28,0.78,26.5,15.94,4,2026-03-31 13:52:38.133462,14,New,Mobile Money,Topwear
+106,Jeans,Nike,New,Market,21.36,59.46,1.05,58.41,37.05,3,2026-04-04 13:52:38.133481,22,Returning,Cash,Bottomwear
+107,Sneakers,H&M,New,Market,29.42,55.23,1.07,54.16,24.74,2,2026-02-26 13:52:38.133510,16,Returning,Cash,Footwear
+108,Jacket,Zara,Worn,Market,27.86,52.17,0.68,51.49,23.63,1,2026-03-24 13:52:38.133530,9,New,Mobile Money,Outerwear
+109,Jeans,Adidas,New,Supplier,28.12,46.36,1.59,44.77,16.65,5,2026-02-11 13:52:38.133550,1,New,Mobile Money,Bottomwear
+110,Sneakers,Puma,Good,Market,25.22,48.39,4.35,44.04,18.82,1,2026-02-11 13:52:38.133569,6,New,Mobile Money,Footwear
+111,Jeans,H&M,Worn,Market,12.61,24.95,4.17,20.78,8.17,4,2026-03-29 13:52:38.133588,28,Returning,Cash,Bottomwear
+112,Jacket,Puma,New,Market,24.46,52.24,3.02,49.22,24.76,4,2026-03-23 13:52:38.133609,25,Returning,Cash,Outerwear
+113,Jeans,Puma,Good,Donation,7.85,21.16,3.16,18.0,10.15,5,2026-04-04 13:52:38.133628,29,New,Mobile Money,Bottomwear
+114,T-Shirt,Nike,Good,Supplier,25.58,56.76,0.3,56.46,30.88,4,2026-03-22 13:52:38.133647,16,Returning,Cash,Topwear
+115,T-Shirt,H&M,New,Supplier,8.48,19.84,2.05,17.79,9.31,1,2026-04-06 13:52:38.133667,3,New,Cash,Topwear
+116,T-Shirt,Zara,Worn,Supplier,22.34,48.48,0.74,47.74,25.4,1,2026-02-22 13:52:38.133686,29,New,Cash,Topwear
+117,T-Shirt,H&M,Good,Market,12.08,34.71,1.14,33.57,21.49,3,2026-02-06 13:52:38.133703,17,Returning,Cash,Topwear
+118,Jacket,Puma,Good,Supplier,8.22,16.74,1.74,15.0,6.78,4,2026-02-16 13:52:38.133721,19,Returning,Mobile Money,Outerwear
+119,Sneakers,H&M,Good,Donation,5.22,12.93,4.73,8.2,2.98,3,2026-02-23 13:52:38.133741,20,Returning,Cash,Footwear
+120,Jeans,Adidas,New,Supplier,14.52,25.46,1.07,24.39,9.87,5,2026-04-03 13:52:38.133760,19,New,Mobile Money,Bottomwear
+121,Jeans,H&M,Worn,Supplier,8.05,15.13,0.66,14.47,6.42,4,2026-03-29 13:52:38.133778,14,New,Cash,Bottomwear
+122,Hoodie,Adidas,New,Donation,6.86,17.73,4.37,13.36,6.5,5,2026-03-29 13:52:38.133797,25,New,Mobile Money,Topwear
+123,Hoodie,Puma,New,Donation,9.31,22.5,4.23,18.27,8.96,5,2026-02-15 13:52:38.133814,25,Returning,Cash,Topwear
+124,Jacket,Puma,Good,Donation,28.28,47.87,3.49,44.38,16.1,3,2026-03-20 13:52:38.133831,18,Returning,Mobile Money,Outerwear
+125,Sneakers,Nike,Worn,Market,17.29,28.7,4.29,24.41,7.12,5,2026-02-14 13:52:38.133850,1,Returning,Mobile Money,Footwear
+126,Jacket,Puma,New,Supplier,25.1,43.58,0.4,43.18,18.08,3,2026-02-22 13:52:38.133909,27,Returning,Mobile Money,Outerwear
+127,Sneakers,Puma,Good,Market,22.29,49.25,3.91,45.34,23.05,2,2026-02-09 13:52:38.133943,3,Returning,Mobile Money,Footwear
+128,Jacket,Adidas,Good,Supplier,9.08,17.32,0.41,16.91,7.83,4,2026-02-21 13:52:38.133960,23,Returning,Mobile Money,Outerwear
+129,Jeans,Nike,Worn,Donation,5.09,12.28,2.66,9.62,4.53,1,2026-02-21 13:52:38.133981,10,New,Mobile Money,Bottomwear
+130,Jeans,Puma,Worn,Market,26.66,66.88,0.41,66.47,39.81,1,2026-02-16 13:52:38.133998,21,New,Cash,Bottomwear
+131,Jeans,Zara,Worn,Market,23.94,44.91,1.44,43.47,19.53,3,2026-03-25 13:52:38.134016,21,Returning,Mobile Money,Bottomwear
+132,Hoodie,Adidas,New,Donation,29.94,64.37,0.7,63.67,33.73,1,2026-04-01 13:52:38.134045,8,Returning,Mobile Money,Topwear
+133,Hoodie,Zara,Good,Donation,19.35,50.53,1.62,48.91,29.56,2,2026-02-13 13:52:38.134063,12,Returning,Mobile Money,Topwear
+134,Jeans,Zara,Good,Supplier,15.01,32.15,1.79,30.36,15.35,2,2026-02-09 13:52:38.134086,29,Returning,Cash,Bottomwear
+135,Hoodie,Puma,Worn,Donation,12.88,34.97,0.2,34.77,21.89,3,2026-02-08 13:52:38.134106,27,Returning,Cash,Topwear
+136,Sneakers,Puma,New,Market,7.84,15.45,2.25,13.2,5.36,3,2026-02-08 13:52:38.134123,5,New,Mobile Money,Footwear
+137,Sneakers,Nike,Good,Market,17.92,33.09,4.52,28.57,10.65,3,2026-04-02 13:52:38.134141,1,Returning,Cash,Footwear
+138,Jeans,Nike,Good,Market,22.6,43.56,4.62,38.94,16.34,3,2026-02-05 13:52:38.134159,11,New,Cash,Bottomwear
+139,Jacket,Zara,Worn,Supplier,25.82,69.42,0.86,68.56,42.74,3,2026-03-12 13:52:38.134177,9,New,Mobile Money,Outerwear
+140,Jeans,Zara,Good,Market,28.55,68.22,1.38,66.84,38.29,3,2026-03-25 13:52:38.134193,3,Returning,Mobile Money,Bottomwear
+141,Jacket,Adidas,Good,Supplier,24.5,46.62,1.43,45.19,20.69,4,2026-03-27 13:52:38.134210,11,Returning,Mobile Money,Outerwear
+142,Sneakers,Adidas,New,Market,23.95,39.65,2.58,37.07,13.12,5,2026-03-28 13:52:38.134225,2,New,Cash,Footwear
+143,Jacket,Puma,New,Supplier,13.94,29.73,0.45,29.28,15.34,4,2026-02-14 13:52:38.134241,29,New,Mobile Money,Outerwear
+144,T-Shirt,Adidas,New,Market,25.87,59.85,3.96,55.89,30.02,1,2026-03-10 13:52:38.134258,14,New,Cash,Topwear
+145,Sneakers,Nike,Good,Market,6.03,14.69,2.77,11.92,5.89,1,2026-03-02 13:52:38.134275,21,Returning,Mobile Money,Footwear
+146,T-Shirt,Puma,Good,Market,20.66,58.69,0.2,58.49,37.83,3,2026-03-19 13:52:38.134290,1,New,Cash,Topwear
+147,Jeans,Puma,New,Supplier,24.77,69.79,2.17,67.62,42.85,1,2026-02-25 13:52:38.134307,10,Returning,Cash,Bottomwear
+148,T-Shirt,Nike,New,Market,24.1,65.41,1.92,63.49,39.39,1,2026-03-27 13:52:38.134321,9,New,Cash,Topwear
+149,T-Shirt,Adidas,Worn,Market,6.24,17.27,0.88,16.39,10.15,1,2026-02-19 13:52:38.134342,9,Returning,Mobile Money,Topwear
+150,Jacket,Adidas,New,Donation,18.98,50.93,4.51,46.42,27.44,4,2026-03-27 13:52:38.134358,20,New,Mobile Money,Outerwear
+151,Jeans,Zara,Worn,Supplier,12.7,33.18,2.11,31.07,18.37,2,2026-03-23 13:52:38.134394,6,New,Cash,Bottomwear
+152,Jacket,H&M,New,Donation,24.06,44.04,0.67,43.37,19.31,3,2026-03-28 13:52:38.134413,12,Returning,Mobile Money,Outerwear
+153,Hoodie,Puma,Worn,Market,5.19,11.03,3.17,7.86,2.67,3,2026-02-14 13:52:38.134432,30,Returning,Mobile Money,Topwear
+154,Sneakers,H&M,Good,Supplier,20.92,49.83,2.63,47.2,26.28,1,2026-03-04 13:52:38.134452,8,Returning,Mobile Money,Footwear
+155,Jeans,Adidas,Good,Supplier,12.97,28.77,3.31,25.46,12.49,5,2026-02-06 13:52:38.134474,22,Returning,Cash,Bottomwear
+156,T-Shirt,Nike,New,Donation,26.2,52.18,3.66,48.52,22.32,1,2026-03-30 13:52:38.134493,11,New,Mobile Money,Topwear
+157,Sneakers,Zara,Good,Donation,21.32,39.88,3.79,36.09,14.77,3,2026-02-10 13:52:38.134513,3,New,Mobile Money,Footwear
+158,Hoodie,H&M,New,Donation,19.38,33.03,3.14,29.89,10.51,1,2026-04-03 13:52:38.134537,15,New,Cash,Topwear
+159,Jacket,Zara,Worn,Supplier,24.95,63.79,2.36,61.43,36.48,2,2026-02-07 13:52:38.134558,11,Returning,Mobile Money,Outerwear
+160,Hoodie,Puma,Good,Donation,17.67,44.81,0.39,44.42,26.75,1,2026-02-20 13:52:38.134580,8,Returning,Cash,Topwear
+161,Sneakers,Puma,Good,Donation,26.09,57.78,1.82,55.96,29.87,3,2026-03-04 13:52:38.134603,16,Returning,Cash,Footwear
+162,T-Shirt,Zara,New,Market,26.87,49.17,3.2,45.97,19.1,4,2026-02-24 13:52:38.134623,17,New,Mobile Money,Topwear
+163,Sneakers,Adidas,Worn,Market,26.83,65.28,4.91,60.37,33.54,4,2026-03-07 13:52:38.134639,24,New,Cash,Footwear
+164,Jacket,Zara,Good,Supplier,8.62,15.24,2.92,12.32,3.7,4,2026-03-06 13:52:38.134656,5,New,Cash,Outerwear
+165,T-Shirt,Zara,Worn,Donation,16.74,49.24,0.87,48.37,31.63,2,2026-03-01 13:52:38.134672,7,New,Mobile Money,Topwear
+166,Hoodie,Adidas,Good,Supplier,5.53,10.79,0.77,10.02,4.49,2,2026-03-25 13:52:38.134693,28,Returning,Mobile Money,Topwear
+167,Jacket,Zara,New,Donation,18.81,30.64,0.62,30.02,11.21,4,2026-04-03 13:52:38.134711,1,Returning,Cash,Outerwear
+168,Jacket,Zara,New,Supplier,7.96,12.46,2.44,10.02,2.06,2,2026-02-06 13:52:38.134728,25,New,Mobile Money,Outerwear
+169,Hoodie,Zara,Good,Market,7.22,20.34,1.79,18.55,11.33,4,2026-03-16 13:52:38.134750,8,New,Mobile Money,Topwear
+170,Jacket,Nike,Good,Market,8.48,22.98,2.67,20.31,11.83,5,2026-03-07 13:52:38.134767,22,Returning,Mobile Money,Outerwear
+171,Hoodie,Nike,Good,Donation,27.3,81.67,2.37,79.3,52.0,5,2026-03-14 13:52:38.134782,9,New,Cash,Topwear
+172,Jeans,Adidas,New,Supplier,13.26,33.92,0.07,33.85,20.59,2,2026-04-06 13:52:38.134798,22,New,Cash,Bottomwear
+173,T-Shirt,Zara,New,Donation,29.35,56.77,3.87,52.9,23.55,2,2026-02-25 13:52:38.134820,8,New,Cash,Topwear
+174,Sneakers,H&M,Good,Donation,11.97,25.46,3.0,22.46,10.49,1,2026-03-17 13:52:38.134839,30,New,Mobile Money,Footwear
+175,Jacket,Nike,New,Supplier,14.93,33.52,2.47,31.05,16.12,5,2026-02-10 13:52:38.134856,18,Returning,Cash,Outerwear
+176,T-Shirt,Nike,Good,Market,25.86,49.33,0.47,48.86,23.0,3,2026-03-02 13:52:38.134928,11,Returning,Mobile Money,Topwear
+177,Jacket,Nike,Worn,Supplier,11.91,32.15,2.03,30.12,18.21,1,2026-02-17 13:52:38.134967,16,Returning,Mobile Money,Outerwear
+178,Sneakers,Puma,Good,Donation,6.33,15.25,3.71,11.54,5.21,2,2026-02-10 13:52:38.134987,10,Returning,Mobile Money,Footwear
+179,Jeans,Adidas,Good,Supplier,20.43,51.45,0.54,50.91,30.48,5,2026-04-01 13:52:38.135017,18,Returning,Mobile Money,Bottomwear
+180,Hoodie,H&M,Good,Supplier,6.6,13.49,1.78,11.71,5.11,2,2026-03-02 13:52:38.135034,30,Returning,Mobile Money,Topwear
+181,Hoodie,Zara,Good,Donation,14.15,31.8,3.12,28.68,14.53,1,2026-03-17 13:52:38.135052,2,New,Cash,Topwear
+182,Jacket,Puma,Good,Supplier,23.45,57.09,4.74,52.35,28.9,5,2026-03-28 13:52:38.135070,25,New,Mobile Money,Outerwear
+183,Hoodie,Nike,New,Market,14.54,33.71,1.3,32.41,17.87,1,2026-02-17 13:52:38.135093,27,New,Mobile Money,Topwear
+184,Sneakers,Nike,Good,Supplier,25.17,52.48,2.22,50.26,25.09,2,2026-03-26 13:52:38.135111,6,Returning,Cash,Footwear
+185,T-Shirt,Adidas,Worn,Donation,11.85,33.06,0.26,32.8,20.95,2,2026-02-09 13:52:38.135130,26,New,Mobile Money,Topwear
+186,Sneakers,H&M,Good,Supplier,16.42,43.67,0.9,42.77,26.35,1,2026-03-01 13:52:38.135147,27,New,Cash,Footwear
+187,Jacket,Adidas,Good,Supplier,25.58,54.37,4.1,50.27,24.69,4,2026-03-01 13:52:38.135164,15,New,Cash,Outerwear
+188,Hoodie,H&M,Good,Supplier,10.07,30.02,4.93,25.09,15.02,2,2026-02-18 13:52:38.135180,7,Returning,Cash,Topwear
+189,Sneakers,Puma,Worn,Market,21.96,54.59,1.64,52.95,30.99,4,2026-02-15 13:52:38.135198,13,New,Mobile Money,Footwear
+190,Jacket,Nike,Good,Donation,24.85,57.51,3.18,54.33,29.48,3,2026-03-21 13:52:38.135216,26,Returning,Cash,Outerwear
+191,Hoodie,H&M,New,Supplier,8.52,23.97,3.85,20.12,11.6,4,2026-02-20 13:52:38.135238,19,Returning,Mobile Money,Topwear
+192,Hoodie,Zara,Good,Supplier,15.52,34.83,1.03,33.8,18.28,1,2026-03-15 13:52:38.135256,14,New,Mobile Money,Topwear
+193,Hoodie,Puma,New,Donation,15.24,34.79,1.9,32.89,17.65,5,2026-02-25 13:52:38.135273,9,New,Cash,Topwear
+194,Jacket,Zara,New,Supplier,8.64,23.09,1.2,21.89,13.25,1,2026-03-09 13:52:38.135391,11,Returning,Cash,Outerwear
+195,Jacket,Adidas,Good,Supplier,23.22,52.36,4.78,47.58,24.36,1,2026-03-16 13:52:38.135413,16,New,Cash,Outerwear
+196,Jacket,Nike,Worn,Donation,9.97,21.12,4.22,16.9,6.93,2,2026-03-20 13:52:38.135430,21,New,Mobile Money,Outerwear
+197,Jacket,Puma,Good,Supplier,19.55,46.47,0.96,45.51,25.96,3,2026-03-15 13:52:38.135445,15,New,Cash,Outerwear
+198,Hoodie,Puma,Worn,Donation,27.34,49.54,0.51,49.03,21.69,4,2026-03-18 13:52:38.135460,9,Returning,Cash,Topwear
+199,T-Shirt,Nike,New,Donation,11.37,31.47,2.03,29.44,18.07,4,2026-02-12 13:52:38.135478,17,New,Mobile Money,Topwear
